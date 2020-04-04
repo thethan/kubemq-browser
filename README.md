@@ -1,12 +1,12 @@
 # Nodejs
 
-The **KubeMQ SDK for Nodejs** enables Nodejs developers to communicate with [KubeMQ](https://kubemq.io/) server.
+This repo is a WORK IN PROGRESS. It is a clone from kubemq-nodejs-rest project and tweaked to get websockets in browser. The **KubeMQ SDK for working on browsers** enables Front end developers to communicate with [KubeMQ](https://kubemq.io/) server.
 
 ## Table of Content
 [[toc]]
 
 ## General SDK description
-The SDK implements all communication patterns available through the KubeMQ server:
+The SDK intends to use all kubemq featues
 - Events
 - EventStore
 - Command
@@ -16,20 +16,14 @@ The SDK implements all communication patterns available through the KubeMQ serve
 
 ### Installing
 
-The recommended way to use the SDK for Nodejs in your project is to consume it from NPM
-https://www.npmjs.com/package/kubemq-restnodejs
-
+Need to commit npm package informations
 
 
 ## Generating Documentation
 
 
 ## Running the examples.
-
-The [examples](https://github.com/kubemq-io/kubemq-node/tree/master/examples)
-are standalone projects that showcase the usage of the SDK.
-
-To run the examples, you need to have a running instance of KubeMQ.
+### TODO examplaes
 
 
 ## Main Concepts.
